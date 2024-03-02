@@ -1,16 +1,27 @@
-### Hi there 👋
+#  🙋 Hey! 👋 Nice to See You
+<table>
+  
+<tr><td>
 
-<!--
-**wzdnzd/wzdnzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+> 🏃‍♂️ Skills: `Java`, `Python`, `Go`, `Kubernetes`, `Docker`, `System Design` and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 👀 Focus: `Cloud Native`, `Machine/Deep Learning` (mainly in `NLP` and `Recommendation System`), `Big Data`
+
+> 🤩 Hobbies: `Coding`, `Learning New Technologies`, `Anime`
+
+</td></tr>
+
+<tr><td>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=wzdnzd&count_private=true&&show_icons=true&line_height=28" alt="wzdnzd's Github Stats" style="height: 200px; width: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzdnzd&layout=compact&theme&langs_count=10&hide=smarty" alt="wzdnzd's Top Languages" style="height: 200px; width: auto;">
+</div>
+
+</td></tr>
+
+</table>
+
+
