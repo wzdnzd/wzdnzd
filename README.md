@@ -7,7 +7,7 @@
 
 > 🏃‍♂️ Skills: `Java`, `Python`, `Go`, `Kubernetes`, `Docker`, `System Design` and more
 
-> 👀 Focus: `Cloud Native`, `Machine/Deep Learning` (mainly in `NLP` and `Recommendation System`), `Big Data`
+> 👀 Focus: `Cloud Native`, `Machine/Deep Learning` (mainly in `RAG`、`NLP` and `Recommendation System`), `Big Data`
 
 > 🤩 Hobbies: `Coding`, `Learning New Technologies`, `Anime`
 
