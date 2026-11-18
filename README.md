@@ -37,7 +37,7 @@ Backend engineer and AI infrastructure enthusiast focused on building **highly s
   <!-- https://github-readme-stats-dimkagithubvercel.vercel.app -->
 
   <img src="https://stats.cocking.dev/api?username=wzdnzd&count_private=true&&show_icons=true&line_height=28" alt="wzdnzd's Github Stats" style="height: 200px; width: auto;">
-  <img src="https://stats.cocking.dev/api/top-langs/?username=wzdnzd&layout=compact&card_width=405&langs_count=10&hide=smarty&exclude_repo=jMetal" alt="wzdnzd's Top Languages" style="height: 200px; width: auto;">
+  <img src="https://stats.cocking.dev/api/top-langs/?username=wzdnzd&layout=compact&card_width=405&langs_count=10&hide=smarty,css,go%20template&exclude_repo=jMetal" alt="wzdnzd's Top Languages" style="height: 200px; width: auto;">
 </div>
 
 </td></tr>
